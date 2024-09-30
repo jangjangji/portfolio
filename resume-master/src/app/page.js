@@ -1,6 +1,7 @@
-import MainContainer from "./main/containers/MainContainer";
+import MainContainer from './main/containers/MainContainer';
+
 const MainPage = () => {
-  return <MainContainer></MainContainer>;
+  return <MainContainer />;
 };
 
 export default MainPage;
